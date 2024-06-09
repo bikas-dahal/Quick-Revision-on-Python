@@ -1,6 +1,5 @@
 # Quick-Revision-on-Python
-
-Sure, here's a detailed outline of the chapters and topics required to meet the objectives of this book on Python:
+Here's a detailed outline of the chapters and topics of this book on Python:
 
 ### Outline
 
